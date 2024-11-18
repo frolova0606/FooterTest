@@ -7,7 +7,8 @@ The script checks the following aspects:
 Presence of a footer on each page.
 The status code of the response (must be 200).
 Presence of social media links in the footer.
-Getting Started
+
+**Getting Started**
 Install Postman: If you don't have Postman yet, download and install it from the official website.
 Create a collection : In Postman, create a new collection and add this script to the “Tests” section for each request.
 Customize URLs: The URLs of the pages to be tested are set in the script. You can change them if necessary.
