@@ -3,10 +3,10 @@
 
 **Description**
 
-The script checks the following aspects:
-Presence of a footer on each page.
-The status code of the response (must be 200).
-Presence of social media links in the footer.
+The script checks the following aspects:  
+Presence of a footer on each page.  
+The status code of the response (must be 200).  
+Presence of social media links in the footer.  
 
 **Getting Started**
 Install Postman: If you don't have Postman yet, download and install it from the official website.
